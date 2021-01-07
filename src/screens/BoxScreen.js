@@ -11,11 +11,10 @@ const BoxScreen = () => {
 
 const styles = StyleSheet.create({
   viewStyle: {
-    flexDirection: 'row',
     borderWidth: 3,
     borderColor: 'black',
     height: 200,
-    alignItems: 'center'
+    justifyContent: 'space-around'
   },
   textStyle: {
     borderWidth: 3,
