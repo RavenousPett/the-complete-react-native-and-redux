@@ -17,16 +17,18 @@ const styles = StyleSheet.create({
   },
   textOneStyle: {
     borderWidth: 3,
-    borderColor: 'red'
+    borderColor: 'red',
+    flex: 2
   },
   textTwoStyle: {
     borderWidth: 3,
     borderColor: 'red',
-    flex: 1
+    flex: 2
   },
   textThreeStyle: {
     borderWidth: 3,
-    borderColor: 'red'
+    borderColor: 'red',
+    flex: 1
   }
 });
 
