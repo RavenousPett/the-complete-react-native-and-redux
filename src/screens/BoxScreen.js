@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
     borderColor: 'black',
     flexDirection: 'row',
     justifyContent: 'space-between',
-    height: 100
+    height: 200
   },
   viewOneStyle: {
     backgroundColor: 'red',
@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'green',
     height: 50,
     width: 50,
-    alignSelf: 'flex-end'
+    top: 50
   },
   viewThreeStyle: {
     backgroundColor: 'purple',
