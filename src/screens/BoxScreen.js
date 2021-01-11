@@ -26,9 +26,7 @@ const styles = StyleSheet.create({
   },
   viewTwoParent: {
     height: 100,
-    justifyContent: 'flex-end',
-    borderColor: 'red',
-    borderWidth: 5
+    justifyContent: 'flex-end'
   },
   viewTwoStyle: {
     backgroundColor: 'green',
